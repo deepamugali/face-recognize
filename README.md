@@ -1,2 +1,1 @@
-# face-recognize
-All code
+# Face Detection using OpenCV
